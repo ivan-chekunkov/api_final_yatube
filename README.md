@@ -27,3 +27,4 @@ python yatube_api/manage.py migrate
 
 # Запустить сервер
 python yatube_api/manage.py runserver
+```
